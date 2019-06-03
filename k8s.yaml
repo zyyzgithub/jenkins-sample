@@ -23,7 +23,6 @@ metadata:
 spec:
    selector:
      app: jenkins-demo
-   clusterIP: 
    type: NodePort
    ports:
    - port: 18888
