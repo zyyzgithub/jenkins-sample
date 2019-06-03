@@ -29,4 +29,4 @@ spec:
    ports:
    - port: 18888
      targetPort: 18888
-     nodePort: 33888
+     nodePort: 31890
